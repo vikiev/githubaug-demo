@@ -1,2 +1,2 @@
 # githubaug-demo
-githubaug-demo
+Just to perform Git Exercises
